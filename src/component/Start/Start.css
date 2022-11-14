@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img-Start img{
+    width: 15rem;  
+}
+
+.bg-color-Start{
+    background-color: #1ABC9C;
+    background-size: 100% 100%;
+    height: 750px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-icon{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.25rem 0 1.5rem ;
+}
+
+.pragr{
+    font-size: 1.5rem ;
+    font-weight: 500;
+    color: white;
+}

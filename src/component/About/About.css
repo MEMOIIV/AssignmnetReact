@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.color-About{
+    background-color: #1ABC9C;
+}
+.contant {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: white;
+}
+.contant-about{
+    max-width: 70%;
+}

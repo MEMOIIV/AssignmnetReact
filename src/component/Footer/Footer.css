@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+footer{
+    background-color: #2C3E50;
+    padding: 40px ;
+   
+}
+.container-footer{
+    max-width: 85%;
+}
+.fa-brands-span{
+    width: 3.15rem;
+    height: 3.15rem;
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 15px ;
+    margin-left: 10px ;
+    background-color: #2C3E50;
+    color: rgb(255, 255, 255);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.fa-brands-span:hover{
+    background-color: white;
+    color: black;
+
+}
+.font-h4{
+    font-size: 1.5rem;
+}
+.Copyright{
+    background-color: #1A252F;
+    width: 100%;
+    
+}
